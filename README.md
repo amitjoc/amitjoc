@@ -1,17 +1,19 @@
 <div align="center">   
 
-# 👋 Er. Amit Joshi
-<h3 align="center">Backend Architect & Database Specialist</h3>
+# 👋 Er. Amit Joshi 
+<h3 align="center">Backend Architect & Database Specialist</h3> 
 </div>  
  
 <p align="left">
 <a href="https://www.youtube.com/c/@eramitjoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eramitjoc" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/amitjoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitjoc" height="23" width="40"  /></a> 
 <a href="https://stackoverflow.com/users/9128487/er-amit-joshi" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="amitjoc" height="25" /></a>
+<a href="" target="blank"  style="vertical-align:text-bottom;" ><img height="50" src="https://komarev.com/ghpvc/?username=amitjoc&label=Profile%20views&color=0e75b6&style=flat" alt="amitjoc" /></a>
 </p>
-
+ 
 I’m a backend engineer and database architect with 10+ years of experience designing scalable, secure, and high-performance systems. My work spans enterprise SaaS, government portals, and mission-critical applications.  
 
+I love turning complex backend concepts into simple analogies, making tech accessible for learning and collaboration. When I’m not debugging queries, I enjoy reading books & playing chess 🌱
 
 ### About Me  
 
@@ -28,5 +30,7 @@ I’m a backend engineer and database architect with 10+ years of experience des
 - 🌱 Currently learning :-  AI Engineering and Python for AI
 - ⚡ Fun fact: Love to play Chess (Mind Relaxing for me), Meditation :lotus_position_man:
  
-I love turning complex backend concepts into simple analogies, making tech accessible for learning and collaboration. When I’m not debugging queries, I enjoy reading books & playing chess 🌱
- 
+### My Projects 
+
+- Breakify 
+- Task Manager API 
