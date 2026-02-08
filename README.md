@@ -1,7 +1,7 @@
 <div align="center">   
 
 # 👋 Er. Amit Joshi
-
+<h3 align="center">Senior Backend Architect & Database Specialist</h3>
 </div>  
  
 <p align="left">
