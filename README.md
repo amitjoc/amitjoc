@@ -21,13 +21,11 @@ I’m a backend engineer and database architect with 10+ years of experience des
   - 🛢️ Database MariaDB, PostgreSQL, MongoDB, SQL, RDBMS 
   - 🔗 API REST APIs, and CI/CD pipelines
   - 🔀 Version Control Git, GitHub, GitLab
-  - 👨‍💻 General Coding Data Structure
-    
-- 🛠 Experienced in query optimization, schema design, and production troubleshooting  
-- 🤝 Mentor and code reviewer, helping teams deliver robust, maintainable solutions  
+  - 👨‍💻 General Coding Data Structure  
+- 🛠 Experienced in query optimization, schema design, and production troubleshooting 
+- 🤝 Mentor and code reviewer, helping teams deliver robust, maintainable solutions 
 - 🏆 Reliability Award 2023 @ iCIMS/GlobalLogic
 - 🌱 Currently learning :-  AI Engineering and Python for AI
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/amitjoc/)  | [GitHub](https://github.com/amitjoc)  |  [YouTube](Linkedin.com/in/amitjoc/)
 - ⚡ Fun fact: Love to play Chess (Mind Relaxing for me
  
 I love turning complex backend concepts into simple analogies, making tech accessible for learning and collaboration. When I’m not debugging queries, I enjoy reading books & playing chess 🌱
