@@ -1,9 +1,13 @@
 <div align="center">  
 
- # Hello World!!! 👋 Amit Joshi here   
+ # Hello World!!! 👋 Er. Amit Joshi here   
 
-</div>
+</div>  
+
+
 I’m a backend engineer and database architect with 10+ years of experience designing scalable, secure, and high-performance systems. My work spans enterprise SaaS, government portals, and mission-critical applications.  
+
+
 
 - ⚡ Skilled in PHP, MariaDB, PostgreSQL, REST APIs, and CI/CD pipelines  
 - 🛠 Experienced in query optimization, schema design, and production troubleshooting  
