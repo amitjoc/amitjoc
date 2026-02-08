@@ -33,5 +33,8 @@ I love turning complex backend concepts into simple analogies, making tech acces
  
 ### My Projects 
 
-- Breakify 
-- Task Manager API 
+| Project Name    | Tech Stack | Key Points |
+| -------- | ------- | ------- |
+| Breakify  | php, cli, web    |  |
+| Task Manager API | REST API, PHP    |  |
+
