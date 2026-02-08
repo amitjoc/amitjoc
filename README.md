@@ -1,6 +1,6 @@
 <div align="center">  
 
- # Hello World!!! 👋 Er. Amit Joshi here   
+ # 👋 Er. Amit Joshi    
 
 </div>  
 <p align="left">
