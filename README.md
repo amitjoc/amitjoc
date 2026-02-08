@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello World!!! 👋 Amit Joshi here
 
 <!--
 **amitjoc/amitjoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Love to play Chess (Mind Relaxing for me)
 -->
+ 
+- 🌱 Currently learning :-  AI Engineering and Python for AI
+- 💬 Ask me about ...
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/amitjoc/)  | [GitHub](https://github.com/amitjoc)  |  [YouTube](Linkedin.com/in/amitjoc/)
+- ⚡ Fun fact: Love to play Chess (Mind Relaxing for me)
