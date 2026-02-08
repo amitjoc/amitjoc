@@ -37,4 +37,4 @@ I love turning complex backend concepts into simple analogies, making tech acces
 | -------- | ------- | ------- |
 | [Breakify](https://github.com/amitjoc/breakify)  | php, cli, web    |  |
 | [Task Manager API](https://github.com/amitjoc/task-manager-api) | REST API, PHP    |  |
-
+| [Commands](https://github.com/amitjoc/commands) | php, mysql, linux   | Listing commands for day to day working |
