@@ -16,7 +16,7 @@ I’m a backend engineer and database architect with 10+ years of experience des
 ### About Me  
 
 - ⚡ Skilled in
-  - 🖥️ Backend PHP, OOP, Design Patterns
+  - 🖥️ Backend PHP, OOP, Design Patterns, PhpUnit Testing
   - 🎨 HTML, CSS, Js, ReactJs & VueJs
   - 🛢️ Database MariaDB, PostgreSQL, MongoDB, SQL, RDBMS 
   - 🔗 API REST APIs, and CI/CD pipelines
@@ -24,9 +24,9 @@ I’m a backend engineer and database architect with 10+ years of experience des
   - 👨‍💻 General Coding Data Structure  
 - 🛠 Experienced in query optimization, schema design, and production troubleshooting 
 - 🤝 Mentor and code reviewer, helping teams deliver robust, maintainable solutions 
-- 🏆 Reliability Award 2023 @ iCIMS/GlobalLogic
+- 🏆 **Reliability Award 2023** @ iCIMS/GlobalLogic
 - 🌱 Currently learning :-  AI Engineering and Python for AI
-- ⚡ Fun fact: Love to play Chess (Mind Relaxing for me
+- ⚡ Fun fact: Love to play Chess (Mind Relaxing for me), Meditation :lotus_position_man:
  
 I love turning complex backend concepts into simple analogies, making tech accessible for learning and collaboration. When I’m not debugging queries, I enjoy reading books & playing chess 🌱
  
