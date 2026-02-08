@@ -8,8 +8,16 @@
 I’m a backend engineer and database architect with 10+ years of experience designing scalable, secure, and high-performance systems. My work spans enterprise SaaS, government portals, and mission-critical applications.  
 
 
+### About Me  
 
-- ⚡ Skilled in PHP, MariaDB, PostgreSQL, REST APIs, and CI/CD pipelines  
+- ⚡ Skilled in
+  - 🖥️ Backend PHP, OOP, Design Patterns
+  - 🎨 HTML, CSS, Js, ReactJs & VueJs
+  - 🛢️ Database MariaDB, PostgreSQL, MongoDB, SQL, RDBMS 
+  - 🔗 API REST APIs, and CI/CD pipelines
+  - 🔀 Version Control Git, GitHub, GitLab
+  - 👨‍💻 General Coding Data Structure
+    
 - 🛠 Experienced in query optimization, schema design, and production troubleshooting  
 - 🤝 Mentor and code reviewer, helping teams deliver robust, maintainable solutions  
 - 🏆 Reliability Award 2023 @ iCIMS/GlobalLogic
