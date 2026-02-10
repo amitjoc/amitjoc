@@ -30,7 +30,7 @@ I love turning complex backend concepts into simple analogies, making tech acces
 - 🏆 **Reliability Award 2023** @ iCIMS/GlobalLogic
 - 🎓 Certifications Post Graduate Diploma in Advanced Computing (PG-DAC) [Grade A] 
 - 🌱 Currently learning :-  AI Engineering and Python for AI
-- ⚡ Fun fact: Love to play Chess (Mind Relaxing for me), Meditation :lotus_position_man:
+- ⚡ Fun fact: Love to play Chess (Mind Relaxing for me & Help me in better analysis), Meditation :lotus_position_man:. Gardening, Cooking 
  
 ### My Projects 
 
