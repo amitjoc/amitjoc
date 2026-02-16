@@ -20,6 +20,7 @@ I love turning complex backend concepts into simple analogies, making tech acces
 
 - ⚡ Skilled in
   - 🖥️ Backend PHP, OOP, Design Patterns, PhpUnit Testing
+  - 🧩 Framework Codeigniter, Symfony, Laravel, CakePhp, Magento
   - 🎨 HTML, CSS, Js, ReactJs & VueJs
   - 🛢️ Database MariaDB, PostgreSQL, MongoDB, SQL, RDBMS 
   - 🔗 API REST APIs, and CI/CD pipelines
