@@ -5,17 +5,17 @@
 </div>  
  
 <p align="left">
-<a href="https://www.youtube.com/c/@eramitjoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eramitjoc-youtube" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/amitjoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitjoc-linked-in" height="23" width="40"  /></a> 
-<a href="https://stackoverflow.com/users/9128487/er-amit-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amitjoc-stackoverflow" height="25" /></a>
+<a href="https://www.youtube.com/c/@eramitjoc" target="blank" ><img  align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@eramitjoc-youtube" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/amitjoc" target="blank"><img  align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitjoc-linked-in" height="23" width="40"  /></a> 
+<a href="https://stackoverflow.com/users/9128487/er-amit-joshi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amitjoc-stackoverflow" height="25" /></a>
 </p>
- 
+<p>
 I’m a backend engineer and database architect with 10+ years of experience designing scalable, secure, and high-performance systems. My work spans enterprise SaaS, government portals, and mission-critical applications.  
 
 I love turning complex backend concepts into simple analogies, making tech accessible for learning and collaboration. When I’m not debugging queries, I enjoy reading books & playing chess 🌱
 
 <img height="50" src="https://komarev.com/ghpvc/?username=amitjoc&label=Profile%20views&color=0e75b6&style=flat-square" alt="amitjoc"   />
-
+</p>
 ### About Me   
 
 - ⚡ Skilled in
