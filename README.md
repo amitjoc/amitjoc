@@ -16,6 +16,7 @@ I love turning complex backend concepts into simple analogies, making tech acces
 
 <img height="50" src="https://komarev.com/ghpvc/?username=amitjoc&label=Profile%20views&color=0e75b6&style=flat-square" alt="amitjoc"   />
 </p>
+
 ### About Me   
 
 - ⚡ Skilled in
